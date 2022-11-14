@@ -54,7 +54,7 @@ export GITLAB_APP_SECRET=<add your app secret>
 
 ## Studio 
 
-Start Stduio as follows. 
+Start Studio as follows. 
 
 ```
 ./docker-compose.sh --profile studio up -d
